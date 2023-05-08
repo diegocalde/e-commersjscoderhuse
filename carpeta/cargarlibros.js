@@ -1,4 +1,4 @@
-let listaLibros=[
+     const listaLibros=[
     {id:1,titulo:"naranja mecanica",precio:2000,cantidad:1,img:"images/descarga(1).jpg"},
     {id:2,titulo:"alicia atravez del espejo",precio:1500,cantidad:1,img:"images/descarga(3).jpg"},
     {id:3,titulo:"asuntos de honor",precio:1200,cantidad:1,img:"images/images(1).jpg"},
